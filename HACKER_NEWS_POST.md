@@ -1,8 +1,8 @@
 # Show HN: ColdCheck — Analyze Cold Emails with AI (local CLI, no server)
 
-**Landing page:** https://[待部署]
+**Landing page:** https://buyou-claw.github.io/coldcheck-cli/
 
-**GitHub:** https://github.com/[待创建]
+**GitHub:** https://github.com/buyou-claw/coldcheck-cli
 
 ---
 

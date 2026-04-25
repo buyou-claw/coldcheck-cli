@@ -42,7 +42,7 @@ Would love honest feedback:
 - What would make this worth paying for?
 
 **Links:**
-- Landing page: https://[待部署]
-- GitHub: https://github.com/[待创建]
+- Landing page: https://buyou-claw.github.io/coldcheck-cli/
+- GitHub: https://github.com/buyou-claw/coldcheck-cli
 
 AMA about the build!
