@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coldcheck"
+version = "0.1.0"
+description = "AI-powered cold email analysis tool"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "anthropic>=0.96.0",
+    "requests>=2.28.0",
+    "urllib3>=2.0.0",
+]
+
+[project.scripts]
+coldcheck = "coldcheck:main"
+
+[project.license]
+text = "MIT"
+
+[project.urls]
+Homepage = "https://github.com/buyou-claw/Auto-Company"
+Repository = "https://github.com/buyou-claw/Auto-Company"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["coldcheck*"]
